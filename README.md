@@ -8,15 +8,17 @@
 
 </div>
 
+
+## Demo Video
+
+![▶ Watch the Application Demo](assets/Media1.gif)
+
 ## Application Preview
 
 ![Semantic Text Summarizer Interface](assets/img1.png)
 
 The application provides a clean Streamlit interface where users can paste a document, select the required summary length, and generate a concise extractive summary.
 
-## Demo Video
-
-![▶ Watch the Application Demo](assets/Media1.gif)
 
 ## Generated Summary Preview
 
