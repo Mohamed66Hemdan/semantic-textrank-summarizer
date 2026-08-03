@@ -16,9 +16,7 @@ The application provides a clean Streamlit interface where users can paste a doc
 
 ## Demo Video
 
-(assets/Media1.gif)
-
-> GitHub does not reliably play repository MP4 files directly inside a README. Click the link above to open or download the demo video.
+[▶ Watch the Application Demo](assets/Media1.mp4)
 
 ## Generated Summary Preview
 
@@ -112,7 +110,7 @@ semantic-textrank-summarizer/
 └── assets/
     ├── img1.png
     ├── img 2.png
-    ├── Media1.mp4
+    ├── Media1.gif
     └── pipeline.png
 ```
 
