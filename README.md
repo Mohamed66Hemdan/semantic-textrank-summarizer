@@ -16,7 +16,7 @@ The application provides a clean Streamlit interface where users can paste a doc
 
 ## Demo Video
 
-[▶ Watch the Application Demo](assets/Media1.mp4)
+[▶ Watch the Application Demo](assets/Media1.gif)
 
 > GitHub does not reliably play repository MP4 files directly inside a README. Click the link above to open or download the demo video.
 
